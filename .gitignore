@@ -1,0 +1,15 @@
+# ignore the below. Run $ npm install && bower install to install dependancies
+bower_components
+node_modules
+
+# Ignore automatically generated cruft
+*.log
+.sass-cache
+
+# Operating system files
+.Spotlight-V100
+.Trashes
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
